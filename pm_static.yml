@@ -1,0 +1,9 @@
+mcuboot:
+  address: 0x0
+  size: 0x14000
+  region: flash_primary
+
+settings_storage:
+  address: 0xFE000
+  size: 0x2000
+  region: flash_primary
